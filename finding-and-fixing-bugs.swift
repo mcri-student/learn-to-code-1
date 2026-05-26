@@ -1,6 +1,6 @@
 moveForward()
-turnLeft()
 moveForward()
+turnLeft()
 moveForward()
 collectGem()
 moveForward()
