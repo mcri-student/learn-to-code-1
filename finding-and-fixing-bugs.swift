@@ -1,0 +1,7 @@
+moveForward()
+turnLeft()
+moveForward()
+moveForward()
+collectGem()
+moveForward()
+toggleSwitch()
